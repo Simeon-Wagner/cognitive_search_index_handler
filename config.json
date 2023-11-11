@@ -1,0 +1,9 @@
+[
+    {
+        "subscription_id": "<subscription_id>",
+        "resource_group": "<resource_group>",
+        "search_service_name": "<cognitive_search_index_name>",
+        "index_name": "<targeted_index>",
+        "api_version": "<api_version>" 
+    }
+]
