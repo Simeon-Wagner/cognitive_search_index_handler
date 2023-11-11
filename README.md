@@ -1,5 +1,5 @@
 # cognitive_search_index_handler
-Delete a document from an index within an Azure Cognitive Search Index
+Delete a document from an index within an Azure Cognitive Search Service
 ## Document deletion
 * Add the required configurations of your Azure tenant to your config.json file.
 * Enter the values of your unique identification field in the "to_delete_item" list
